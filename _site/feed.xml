@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abrace a moda</title>
+    <description></description>
+    <link>http://www.alessandrostein.com/shiori//</link>
+    <atom:link href="http://www.alessandrostein.com/shiori//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Jun 2016 21:02:14 -0300</pubDate>
+    <lastBuildDate>Wed, 01 Jun 2016 21:02:14 -0300</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Introducing Shiori: A Bootstrap-Based Jekyll Theme</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://cloud.githubusercontent.com/assets/992008/3955483/2b9a77ae-2702-11e4-9f28-6afb051271de.png&quot; alt=&quot;Shiori&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Shiori is a &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;-based &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme. It looks great by default, but you can customize it easily. It supports &lt;a href=&quot;http://getbootstrap.com&quot;&gt;Bootstrap&lt;/a&gt; and &lt;a href=&quot;http://fontawesome.io&quot;&gt;Font Awesome&lt;/a&gt; classes out of the box.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/ellekasai/shiori&quot; target=&quot;_blank&quot; class=&quot;btn btn-primary&quot;&gt;&lt;i class=&quot;fa fa-github fa-lg&quot;&gt;&lt;/i&gt; View on GitHub →&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;themes&quot;&gt;Themes&lt;/h2&gt;
+
+&lt;p&gt;Shiori comes with these color schemes:&lt;/p&gt;
+
+&lt;h3 id=&quot;dark&quot;&gt;Dark&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/3d3T3b3E0b45/screenshot%202014-08-30%20at%206.48.56%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;turquoise&quot;&gt;Turquoise&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1s1k3m1E3n37/screenshot%202014-08-30%20at%206.49.02%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;green&quot;&gt;Green&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/0G0G3u392I11/screenshot%202014-08-30%20at%206.49.08%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;blue&quot;&gt;Blue&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1V1C0n2U0c1s/screenshot%202014-08-30%20at%206.49.14%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;purple&quot;&gt;Purple&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/1V283M0f1K08/screenshot%202014-08-30%20at%206.49.19%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;orange&quot;&gt;Orange&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/2d2k010J3z3g/screenshot%202014-08-30%20at%206.49.24%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;red&quot;&gt;Red&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://cl.ly/image/10080E2G3c1e/screenshot%202014-08-30%20at%206.49.31%20PM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;author&quot;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Shiori is written by &lt;a href=&quot;https://twitter.com/ellekasai&quot;&gt;Elle Kasai&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://avatars0.githubusercontent.com/u/2410692?v=2&amp;amp;s=200&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/ellekasai&quot; class=&quot;twitter-follow-button&quot; data-show-count=&quot;true&quot; data-size=&quot;large&quot; data-dnt=&quot;true&quot;&gt;Follow @ellekasai&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Jul 2014 00:00:00 -0300</pubDate>
+        <link>http://www.alessandrostein.com/shiori//introducing-shiori</link>
+        <guid isPermaLink="true">http://www.alessandrostein.com/shiori//introducing-shiori</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Shiori by Example: Helpful Bootstrap Components</title>
+        <description>&lt;p&gt;With Shiori, you can take advantage of all the available components in Bootstrap. Here are some useful components for blogging.&lt;/p&gt;
+
+&lt;h2 id=&quot;buttons-and-font-awesome&quot;&gt;Buttons and Font Awesome&lt;/h2&gt;
+
+&lt;p&gt;Shiori automatically imports the latest version of &lt;a href=&quot;http://fortawesome.github.io/Font-Awesome&quot;&gt;Font Awesome&lt;/a&gt;. You can use it with &lt;code class=&quot;highlighter-rouge&quot;&gt;button&lt;/code&gt;s like so:&lt;/p&gt;
+
+&lt;p&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt; Tweet&lt;/button&gt;
+&lt;button type=&quot;button&quot; class=&quot;btn btn-default&quot;&gt;&lt;i class=&quot;fa fa-envelope-o&quot;&gt;&lt;/i&gt; Email&lt;/button&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;text-helpers&quot;&gt;Text Helpers&lt;/h2&gt;
+
+&lt;p&gt;You can use text helper classes to modify text easily. Documentations &lt;a href=&quot;http://getbootstrap.com/css/#helper-classes-colors&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;http://getbootstrap.com/css/#type-alignment&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;text-muted&quot;&gt;Use &lt;code&gt;text-muted&lt;/code&gt; to mute text color.&lt;/p&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Use &lt;code&gt;lead&lt;/code&gt; to for call-out text.&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;Use &lt;code&gt;text-center&lt;/code&gt; to center text.&lt;/p&gt;
+
+&lt;h2 id=&quot;alerts&quot;&gt;Alerts&lt;/h2&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;Alerts can be useful too!&lt;/div&gt;
+
+&lt;h2 id=&quot;responsive-embed&quot;&gt;Responsive Embed&lt;/h2&gt;
+
+&lt;p&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;embed-responsive&lt;/code&gt; and either &lt;code class=&quot;highlighter-rouge&quot;&gt;embed-responsive-16by9&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;embed-responsive-4by3&lt;/code&gt; classes to make embedded objects responsive.&lt;/p&gt;
+
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;//www.youtube.com/embed/J_vGbXDAvmQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;javascript-components&quot;&gt;JavaScript Components&lt;/h2&gt;
+
+&lt;p&gt;You can use all of the JavaScript components included by Bootstrap. Example: &lt;a data-toggle=&quot;modal&quot; data-target=&quot;#myModal&quot; href=&quot;#&quot;&gt;A modal dialog.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;modal fade&quot; id=&quot;myModal&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot;&gt;
+  &lt;div class=&quot;modal-dialog&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;div class=&quot;modal-header&quot;&gt;
+        &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&lt;span class=&quot;sr-only&quot;&gt;Close&lt;/span&gt;&lt;/button&gt;
+        &lt;h4 class=&quot;modal-title&quot;&gt;Modal Dialog&lt;/h4&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-body&quot;&gt;
+        &lt;p&gt;Hello World!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;customizing-bootstrap&quot;&gt;Customizing Bootstrap&lt;/h2&gt;
+
+&lt;p&gt;Shiori uses &lt;a href=&quot;https://github.com/twbs/bootstrap-sass&quot;&gt;bootstrap-sass&lt;/a&gt;, so all of the variables are customizable. To learn more, check out Shiori’s &lt;a href=&quot;http://github.com/ellekasai/shiori/&quot;&gt;README&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 28 Jun 2014 00:00:00 -0300</pubDate>
+        <link>http://www.alessandrostein.com/shiori//example-bootstrap</link>
+        <guid isPermaLink="true">http://www.alessandrostein.com/shiori//example-bootstrap</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
